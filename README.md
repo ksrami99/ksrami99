@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksrami99&label=Profile%20views&color=0e75b6&style=flat" alt="ksrami99" /> </p>
 
-- 🌱 I’m currently learning [DSA](https://github.com/ksrami99/DSA_Cpp)
+- 🌱 I’m currently learning [DSA](https://github.com/ksrami99/DSA_Cpp) and [JS](https://github.com/ksrami99/JS)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ksrami99](https://github.com/ksrami99)
 
